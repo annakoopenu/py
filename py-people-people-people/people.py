@@ -44,10 +44,15 @@ p444 = {
     'creations_year' : '01-01-1954' #need a check
 }
 # Please add p5
-
+p5 = {
+    'name' : 'Antoni Gaudí',
+    'titles' : 'architect',
+    'creations' : ' Casa Batlló ',
+    'creations_year' : '01-01-1906' #need a check
+}
 # DataFrame from list pf dicts
 ppd = pd.DataFrame([p1, p11, p2, p3, p4, p44, p444])
-
+ppd = ppd.append(p5, ignore_index = True)
 print()
 print('---------- People you must know dataset ----------------')
 #print(ppd.shape)

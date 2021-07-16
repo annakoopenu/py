@@ -1,4 +1,8 @@
 ,name,titles,creations,creations_year
-0,Haruki Murakami,['writer'],"['Man in the Taxi', 'The Wind-Up Bird Chronicle']","[2000, 1998]"
-1,David Lynch,['filmmaker'],['Lost Highway'],[1997]
-2,Michelle Gurevich,['singer'],['Party Girl'],[2010]
+0,Haruki Murakami,writer,The Wind-Up Bird Chronicle,2002
+1,Haruki Murakami,writer,Man in the Taxi,2017
+2,David Lynch,filmmaker,Lost Highway,1997
+3,Michelle Gurevich,singer,Party Girl,2010
+4,Salvador Dali,artist,A Couple with Their Heads Full of Clouds,1936
+5,Salvador Dali,artist,Apparition of Face and Fruit Dish on a Beach,1938
+6,Salvador Dali,artist,The Disintegration of the Persistence of Memory,1954

@@ -1,4 +1,4 @@
 # py
 Testing python scripts
 
-adding blablAAA
+Here is Python code playground

@@ -1,3 +1,13 @@
 Here just a playground for learning 
 Python and Data Science tools
 
+The Data Set created is a list of people and their creations
+
+Next challenges:
+  - To find convenient web environment to run .html
+  - To find the best way to use .json  
+  - To find similar type open datasets
+  
+  -- To visualize people names/creations as linkable text
+  -- To find the popularity rating from the web
+  

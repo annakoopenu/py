@@ -2,6 +2,18 @@
 '''
 import pycodestyle
 
+
+
+print('--------------------------------')
+print('Just enother loop comprehension')
+z = [i for i in range(5)]
+print(z)
+
+zz = [[i for i in range(5)] for j in range(5)]
+print(zz)
+print('--------------------------------')
+
+
 style_checker = pycodestyle.StyleGuide()
 
 x = [7, 8, 9]
@@ -19,4 +31,6 @@ style_check = style_checker.check_files(['/Users/Anna/Documents/Github/py/py-peo
 #pycodestyle
 #pip install pycodestyle
 #pycodestyle dict_to_array.py
+
+
 

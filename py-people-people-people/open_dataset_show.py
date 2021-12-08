@@ -42,7 +42,7 @@ kaggle_painters = improve_open_data(kaggle_painters_row_data)
 
 print('i wonder if it might work')
 print(kaggle_painters.head(20))
-kaggle_painters = kaggle_painters.sort_values('score')
+kaggle_painters = kaggle_painters.sort_values(reversed = )
 painters_colors = [i for i in range(39)]
 paintings_score = kaggle_painters['score'] * 100
 
